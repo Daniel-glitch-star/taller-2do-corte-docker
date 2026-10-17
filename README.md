@@ -20,7 +20,7 @@ El informe está organizado en tres fases, igual que la guía:
 
 Al final respondo las 5 preguntas de comprensión y dejo la lista de evidencias.
 
-> Las capturas van en la carpeta `evidencias/`, junto a este archivo. En cada paso indico el nombre del archivo de la captura correspondiente.
+> Las capturas van en la carpeta `evidencia/`, junto a este archivo. En cada paso indico el nombre del archivo de la captura correspondiente.
 
 ---
 
